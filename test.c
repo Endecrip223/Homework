@@ -3,6 +3,6 @@ int main()
 {
     int a=10; //or something else
     if ((a&1)==0) printf("even");//google translate
-    else printf("uneven");
+    else printf("uneven"); printf("sample text");
     return 0;
 }
